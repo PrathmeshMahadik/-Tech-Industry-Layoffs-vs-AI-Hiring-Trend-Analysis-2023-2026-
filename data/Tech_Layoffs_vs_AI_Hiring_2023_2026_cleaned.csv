@@ -1,0 +1,321 @@
+ID,Year,Quarter,Company,Industry,Location,Layoffs,AI_Hiring,Tech_Hiring,AI_Job_Growth_Pct,Layoff_Rate_Pct,AI_Related_Layoff,AI_Hiring_Level,Total_Hiring,AI_Hiring_Share_Pct
+1,2023,Q1,TechNova,Software,USA,1429,68,175,23.3,3.0,Yes,Low,243,27.98
+2,2023,Q1,CloudWorks,Cloud,India,329,213,708,11.6,4.3,Yes,Low,921,23.13
+3,2023,Q1,FinTechPro,FinTech,UK,567,99,667,20.8,5.3,No,Low,766,12.92
+4,2023,Q1,DataCore,Software,USA,1556,179,579,14.0,5.5,No,Low,758,23.61
+5,2023,Q1,ShopTech,E-commerce,India,133,234,313,22.6,3.7,Yes,Low,547,42.78
+6,2023,Q1,AIWorks,Artificial Intelligence,Canada,1683,126,254,11.7,1.9,No,Low,380,33.16
+7,2023,Q1,PayMatrix,FinTech,Germany,1356,107,194,23.1,5.1,No,Low,301,35.55
+8,2023,Q1,CyberSphere,Cybersecurity,USA,895,60,715,15.3,5.8,No,Low,775,7.74
+9,2023,Q1,CodeWave,Software,Singapore,860,187,346,22.7,1.5,No,Low,533,35.08
+10,2023,Q1,NetSystems,Cloud,India,712,60,388,25.6,4.0,No,Low,448,13.39
+11,2023,Q1,AutoTech,Automation,USA,867,81,529,16.4,6.1,No,Low,610,13.28
+12,2023,Q1,DigitalHub,Software,UK,1519,205,223,21.0,2.4,No,Low,428,47.9
+13,2023,Q1,ByteLabs,Software,Canada,454,158,538,14.9,8.0,No,Low,696,22.7
+14,2023,Q1,SmartData,Data Analytics,India,569,215,482,25.2,6.9,No,Low,697,30.85
+15,2023,Q1,SecureNet,Cybersecurity,Germany,185,246,473,17.2,1.7,No,Low,719,34.21
+16,2023,Q1,FutureAI,Artificial Intelligence,USA,1281,264,472,13.8,4.8,No,High,736,35.87
+17,2023,Q1,MarketCloud,E-commerce,Singapore,1436,157,296,14.8,3.0,No,Low,453,34.66
+18,2023,Q1,AppForge,Software,India,658,231,748,17.7,5.5,No,Low,979,23.6
+19,2023,Q1,QuantumSoft,Software,USA,403,170,655,11.6,1.5,Yes,Low,825,20.61
+20,2023,Q1,VisionTech,Artificial Intelligence,UK,1405,80,846,17.6,1.7,No,Low,926,8.64
+21,2023,Q2,TechNova,Software,USA,1078,175,407,27.5,7.5,Yes,Low,582,30.07
+22,2023,Q2,CloudWorks,Cloud,India,1596,69,848,25.9,6.7,No,Low,917,7.52
+23,2023,Q2,FinTechPro,FinTech,UK,816,68,450,17.8,4.5,No,Low,518,13.13
+24,2023,Q2,DataCore,Software,USA,1593,107,662,23.7,4.9,Yes,Low,769,13.91
+25,2023,Q2,ShopTech,E-commerce,India,1400,116,804,19.1,2.7,No,Low,920,12.61
+26,2023,Q2,AIWorks,Artificial Intelligence,Canada,450,178,693,26.5,5.6,No,Low,871,20.44
+27,2023,Q2,PayMatrix,FinTech,Germany,349,277,521,25.8,7.3,No,High,798,34.71
+28,2023,Q2,CyberSphere,Cybersecurity,USA,238,101,730,27.0,1.8,No,Low,831,12.15
+29,2023,Q2,CodeWave,Software,Singapore,261,234,695,23.8,2.1,No,Low,929,25.19
+30,2023,Q2,NetSystems,Cloud,India,1245,82,421,19.5,5.6,No,Low,503,16.3
+31,2023,Q2,AutoTech,Automation,USA,1224,233,355,22.8,4.1,No,Low,588,39.63
+32,2023,Q2,DigitalHub,Software,UK,884,152,679,18.1,3.0,Yes,Low,831,18.29
+33,2023,Q2,ByteLabs,Software,Canada,163,190,717,14.1,2.8,Yes,Low,907,20.95
+34,2023,Q2,SmartData,Data Analytics,India,1412,55,384,11.2,1.4,No,Low,439,12.53
+35,2023,Q2,SecureNet,Cybersecurity,Germany,1172,100,435,22.0,2.8,Yes,Low,535,18.69
+36,2023,Q2,FutureAI,Artificial Intelligence,USA,1289,187,634,14.4,4.7,No,Low,821,22.78
+37,2023,Q2,MarketCloud,E-commerce,Singapore,313,64,824,17.8,4.3,No,Low,888,7.21
+38,2023,Q2,AppForge,Software,India,1613,53,839,21.8,5.9,Yes,Low,892,5.94
+39,2023,Q2,QuantumSoft,Software,USA,1611,126,261,14.5,2.6,No,Low,387,32.56
+40,2023,Q2,VisionTech,Artificial Intelligence,UK,984,86,435,18.3,7.6,Yes,Low,521,16.51
+41,2023,Q3,TechNova,Software,USA,1774,260,713,11.8,6.0,No,High,973,26.72
+42,2023,Q3,CloudWorks,Cloud,India,150,63,392,13.0,4.7,No,Low,455,13.85
+43,2023,Q3,FinTechPro,FinTech,UK,941,271,210,13.0,1.2,No,High,481,56.34
+44,2023,Q3,DataCore,Software,USA,1725,240,615,15.1,6.3,No,Low,855,28.07
+45,2023,Q3,ShopTech,E-commerce,India,1724,182,827,22.9,2.3,No,Low,1009,18.04
+46,2023,Q3,AIWorks,Artificial Intelligence,Canada,239,188,705,11.1,3.5,Yes,Low,893,21.05
+47,2023,Q3,PayMatrix,FinTech,Germany,1096,168,693,12.8,8.2,Yes,Low,861,19.51
+48,2023,Q3,CyberSphere,Cybersecurity,USA,500,57,759,11.2,7.5,No,Low,816,6.99
+49,2023,Q3,CodeWave,Software,Singapore,1286,103,742,20.7,5.7,No,Low,845,12.19
+50,2023,Q3,NetSystems,Cloud,India,1315,184,685,15.7,3.1,No,Low,869,21.17
+51,2023,Q3,AutoTech,Automation,USA,763,101,421,17.1,6.1,No,Low,522,19.35
+52,2023,Q3,DigitalHub,Software,UK,767,277,224,10.2,5.7,No,High,501,55.29
+53,2023,Q3,ByteLabs,Software,Canada,324,58,700,13.8,3.1,No,Low,758,7.65
+54,2023,Q3,SmartData,Data Analytics,India,260,265,400,16.7,2.4,No,High,665,39.85
+55,2023,Q3,SecureNet,Cybersecurity,Germany,1560,117,776,27.7,7.1,No,Low,893,13.1
+56,2023,Q3,FutureAI,Artificial Intelligence,USA,1487,249,717,15.4,6.0,No,Low,966,25.78
+57,2023,Q3,MarketCloud,E-commerce,Singapore,395,107,268,26.0,6.6,Yes,Low,375,28.53
+58,2023,Q3,AppForge,Software,India,697,194,365,22.9,2.7,No,Low,559,34.7
+59,2023,Q3,QuantumSoft,Software,USA,660,169,650,14.5,7.8,Yes,Low,819,20.63
+60,2023,Q3,VisionTech,Artificial Intelligence,UK,1419,148,433,10.8,3.6,Yes,Low,581,25.47
+61,2023,Q4,TechNova,Software,USA,656,81,602,19.9,4.3,Yes,Low,683,11.86
+62,2023,Q4,CloudWorks,Cloud,India,274,266,302,19.8,7.3,No,High,568,46.83
+63,2023,Q4,FinTechPro,FinTech,UK,423,150,280,10.8,3.9,No,Low,430,34.88
+64,2023,Q4,DataCore,Software,USA,201,270,516,13.8,3.0,Yes,High,786,34.35
+65,2023,Q4,ShopTech,E-commerce,India,1717,183,566,27.5,6.7,No,Low,749,24.43
+66,2023,Q4,AIWorks,Artificial Intelligence,Canada,604,261,316,27.6,7.1,No,High,577,45.23
+67,2023,Q4,PayMatrix,FinTech,Germany,170,85,490,24.1,4.2,No,Low,575,14.78
+68,2023,Q4,CyberSphere,Cybersecurity,USA,1625,247,404,14.8,6.9,Yes,Low,651,37.94
+69,2023,Q4,CodeWave,Software,Singapore,199,259,631,14.0,7.2,No,High,890,29.1
+70,2023,Q4,NetSystems,Cloud,India,745,250,383,14.0,6.0,No,Low,633,39.49
+71,2023,Q4,AutoTech,Automation,USA,690,261,221,27.4,3.2,No,High,482,54.15
+72,2023,Q4,DigitalHub,Software,UK,938,213,699,16.0,1.4,No,Low,912,23.36
+73,2023,Q4,ByteLabs,Software,Canada,654,85,744,27.3,3.1,Yes,Low,829,10.25
+74,2023,Q4,SmartData,Data Analytics,India,1009,128,471,17.9,8.4,Yes,Low,599,21.37
+75,2023,Q4,SecureNet,Cybersecurity,Germany,1300,88,410,10.8,4.4,No,Low,498,17.67
+76,2023,Q4,FutureAI,Artificial Intelligence,USA,1771,177,836,13.5,4.3,No,Low,1013,17.47
+77,2023,Q4,MarketCloud,E-commerce,Singapore,796,199,471,21.9,2.1,No,Low,670,29.7
+78,2023,Q4,AppForge,Software,India,1158,119,832,17.4,4.1,No,Low,951,12.51
+79,2023,Q4,QuantumSoft,Software,USA,380,89,580,22.0,4.0,No,Low,669,13.3
+80,2023,Q4,VisionTech,Artificial Intelligence,UK,476,197,732,15.4,5.2,Yes,Low,929,21.21
+81,2024,Q1,TechNova,Software,USA,707,177,590,30.5,5.6,No,Low,767,23.08
+82,2024,Q1,CloudWorks,Cloud,India,1024,296,841,18.5,4.7,No,High,1137,26.03
+83,2024,Q1,FinTechPro,FinTech,UK,1750,156,824,15.8,5.0,No,Low,980,15.92
+84,2024,Q1,DataCore,Software,USA,806,117,390,28.1,2.8,Yes,Low,507,23.08
+85,2024,Q1,ShopTech,E-commerce,India,170,93,400,34.7,5.7,No,Low,493,18.86
+86,2024,Q1,AIWorks,Artificial Intelligence,Canada,1052,282,794,26.1,6.4,No,High,1076,26.21
+87,2024,Q1,PayMatrix,FinTech,Germany,938,194,301,27.8,1.2,No,Low,495,39.19
+88,2024,Q1,CyberSphere,Cybersecurity,USA,1697,124,585,18.6,7.1,No,Low,709,17.49
+89,2024,Q1,CodeWave,Software,Singapore,1071,95,720,19.2,7.4,No,Low,815,11.66
+90,2024,Q1,NetSystems,Cloud,India,1761,307,833,25.2,5.3,No,High,1140,26.93
+91,2024,Q1,AutoTech,Automation,USA,1666,296,777,31.1,7.7,No,High,1073,27.59
+92,2024,Q1,DigitalHub,Software,UK,1242,298,312,29.6,4.7,Yes,High,610,48.85
+93,2024,Q1,ByteLabs,Software,Canada,626,211,683,24.2,2.9,No,Low,894,23.6
+94,2024,Q1,SmartData,Data Analytics,India,1581,216,390,19.7,3.5,No,Low,606,35.64
+95,2024,Q1,SecureNet,Cybersecurity,Germany,403,147,386,22.0,2.3,Yes,Low,533,27.58
+96,2024,Q1,FutureAI,Artificial Intelligence,USA,969,278,488,25.4,4.2,Yes,High,766,36.29
+97,2024,Q1,MarketCloud,E-commerce,Singapore,980,269,748,33.9,1.3,No,High,1017,26.45
+98,2024,Q1,AppForge,Software,India,1299,264,638,14.1,3.8,No,High,902,29.27
+99,2024,Q1,QuantumSoft,Software,USA,978,345,709,30.8,7.8,No,High,1054,32.73
+100,2024,Q1,VisionTech,Artificial Intelligence,UK,678,293,647,14.6,3.7,No,High,940,31.17
+101,2024,Q2,TechNova,Software,USA,948,154,628,33.3,8.4,No,Low,782,19.69
+102,2024,Q2,CloudWorks,Cloud,India,926,358,828,14.6,5.9,Yes,High,1186,30.19
+103,2024,Q2,FinTechPro,FinTech,UK,1065,163,201,19.5,3.6,No,Low,364,44.78
+104,2024,Q2,DataCore,Software,USA,811,264,434,29.8,7.3,Yes,High,698,37.82
+105,2024,Q2,ShopTech,E-commerce,India,287,310,169,29.7,1.6,No,High,479,64.72
+106,2024,Q2,AIWorks,Artificial Intelligence,Canada,579,105,817,14.8,1.4,Yes,Low,922,11.39
+107,2024,Q2,PayMatrix,FinTech,Germany,161,148,394,16.7,6.1,No,Low,542,27.31
+108,2024,Q2,CyberSphere,Cybersecurity,USA,566,308,412,30.1,2.4,No,High,720,42.78
+109,2024,Q2,CodeWave,Software,Singapore,1651,128,317,34.3,2.0,Yes,Low,445,28.76
+110,2024,Q2,NetSystems,Cloud,India,758,364,843,33.1,3.9,No,High,1207,30.16
+111,2024,Q2,AutoTech,Automation,USA,526,108,756,28.5,5.8,Yes,Low,864,12.5
+112,2024,Q2,DigitalHub,Software,UK,1702,224,850,26.6,2.1,No,Low,1074,20.86
+113,2024,Q2,ByteLabs,Software,Canada,1722,91,505,25.2,6.0,Yes,Low,596,15.27
+114,2024,Q2,SmartData,Data Analytics,India,1446,244,162,31.8,7.2,Yes,Low,406,60.1
+115,2024,Q2,SecureNet,Cybersecurity,Germany,861,305,306,23.1,6.6,No,High,611,49.92
+116,2024,Q2,FutureAI,Artificial Intelligence,USA,673,345,645,23.8,7.2,No,High,990,34.85
+117,2024,Q2,MarketCloud,E-commerce,Singapore,780,195,238,19.9,4.5,No,Low,433,45.03
+118,2024,Q2,AppForge,Software,India,1287,264,494,14.6,7.4,Yes,High,758,34.83
+119,2024,Q2,QuantumSoft,Software,USA,554,251,414,21.1,7.6,No,Low,665,37.74
+120,2024,Q2,VisionTech,Artificial Intelligence,UK,685,354,160,24.8,2.6,Yes,High,514,68.87
+121,2024,Q3,TechNova,Software,USA,952,320,718,29.9,6.2,No,High,1038,30.83
+122,2024,Q3,CloudWorks,Cloud,India,1125,299,167,16.0,2.8,No,High,466,64.16
+123,2024,Q3,FinTechPro,FinTech,UK,747,367,527,23.9,5.1,No,High,894,41.05
+124,2024,Q3,DataCore,Software,USA,1647,351,488,21.4,4.5,No,High,839,41.84
+125,2024,Q3,ShopTech,E-commerce,India,592,131,347,20.6,6.6,No,Low,478,27.41
+126,2024,Q3,AIWorks,Artificial Intelligence,Canada,1533,164,346,18.5,4.7,No,Low,510,32.16
+127,2024,Q3,PayMatrix,FinTech,Germany,1676,338,761,19.9,1.9,Yes,High,1099,30.76
+128,2024,Q3,CyberSphere,Cybersecurity,USA,585,254,333,20.3,6.4,Yes,High,587,43.27
+129,2024,Q3,CodeWave,Software,Singapore,213,97,716,20.1,8.1,No,Low,813,11.93
+130,2024,Q3,NetSystems,Cloud,India,1661,321,255,32.3,5.4,No,High,576,55.73
+131,2024,Q3,AutoTech,Automation,USA,1022,244,338,34.3,3.0,No,Low,582,41.92
+132,2024,Q3,DigitalHub,Software,UK,353,103,560,24.3,5.4,No,Low,663,15.54
+133,2024,Q3,ByteLabs,Software,Canada,430,146,726,33.9,1.8,Yes,Low,872,16.74
+134,2024,Q3,SmartData,Data Analytics,India,1262,283,770,26.5,5.7,No,High,1053,26.88
+135,2024,Q3,SecureNet,Cybersecurity,Germany,899,300,603,20.2,5.5,No,High,903,33.22
+136,2024,Q3,FutureAI,Artificial Intelligence,USA,1284,100,774,34.2,1.9,No,Low,874,11.44
+137,2024,Q3,MarketCloud,E-commerce,Singapore,1401,178,420,27.9,2.3,Yes,Low,598,29.77
+138,2024,Q3,AppForge,Software,India,273,150,152,22.6,6.2,No,Low,302,49.67
+139,2024,Q3,QuantumSoft,Software,USA,186,188,445,28.8,6.3,No,Low,633,29.7
+140,2024,Q3,VisionTech,Artificial Intelligence,UK,1527,189,420,30.5,5.8,No,Low,609,31.03
+141,2024,Q4,TechNova,Software,USA,525,287,267,25.4,5.9,No,High,554,51.81
+142,2024,Q4,CloudWorks,Cloud,India,411,106,211,17.5,3.4,No,Low,317,33.44
+143,2024,Q4,FinTechPro,FinTech,UK,1285,217,599,16.6,6.2,No,Low,816,26.59
+144,2024,Q4,DataCore,Software,USA,677,326,702,24.4,1.8,Yes,High,1028,31.71
+145,2024,Q4,ShopTech,E-commerce,India,1004,235,768,19.3,1.9,No,Low,1003,23.43
+146,2024,Q4,AIWorks,Artificial Intelligence,Canada,1298,370,171,35.0,6.1,Yes,High,541,68.39
+147,2024,Q4,PayMatrix,FinTech,Germany,202,159,631,24.9,4.4,Yes,Low,790,20.13
+148,2024,Q4,CyberSphere,Cybersecurity,USA,1318,293,800,31.1,8.3,No,High,1093,26.81
+149,2024,Q4,CodeWave,Software,Singapore,956,240,478,28.1,7.5,No,Low,718,33.43
+150,2024,Q4,NetSystems,Cloud,India,1540,323,445,27.9,4.1,No,High,768,42.06
+151,2024,Q4,AutoTech,Automation,USA,195,302,240,20.6,3.6,No,High,542,55.72
+152,2024,Q4,DigitalHub,Software,UK,947,333,151,27.8,5.2,No,High,484,68.8
+153,2024,Q4,ByteLabs,Software,Canada,504,335,520,27.1,4.8,No,High,855,39.18
+154,2024,Q4,SmartData,Data Analytics,India,225,174,423,25.5,8.0,No,Low,597,29.15
+155,2024,Q4,SecureNet,Cybersecurity,Germany,1550,318,274,14.6,5.8,No,High,592,53.72
+156,2024,Q4,FutureAI,Artificial Intelligence,USA,1573,151,468,25.6,5.2,Yes,Low,619,24.39
+157,2024,Q4,MarketCloud,E-commerce,Singapore,352,306,270,27.6,2.3,No,High,576,53.12
+158,2024,Q4,AppForge,Software,India,717,330,429,22.7,4.7,No,High,759,43.48
+159,2024,Q4,QuantumSoft,Software,USA,1055,352,298,22.1,7.9,No,High,650,54.15
+160,2024,Q4,VisionTech,Artificial Intelligence,UK,399,105,432,30.2,7.4,No,Low,537,19.55
+161,2025,Q1,TechNova,Software,USA,1733,359,423,37.7,3.3,Yes,High,782,45.91
+162,2025,Q1,CloudWorks,Cloud,India,1322,396,825,29.8,2.3,No,High,1221,32.43
+163,2025,Q1,FinTechPro,FinTech,UK,826,270,715,36.3,4.0,No,High,985,27.41
+164,2025,Q1,DataCore,Software,USA,506,457,394,31.7,2.9,No,High,851,53.7
+165,2025,Q1,ShopTech,E-commerce,India,209,262,634,34.9,7.1,No,High,896,29.24
+166,2025,Q1,AIWorks,Artificial Intelligence,Canada,1479,433,305,29.9,1.5,No,High,738,58.67
+167,2025,Q1,PayMatrix,FinTech,Germany,1328,269,252,39.0,4.4,No,High,521,51.63
+168,2025,Q1,CyberSphere,Cybersecurity,USA,1055,107,297,27.8,6.0,Yes,Low,404,26.49
+169,2025,Q1,CodeWave,Software,Singapore,1081,235,496,33.0,4.1,Yes,Low,731,32.15
+170,2025,Q1,NetSystems,Cloud,India,792,445,696,27.1,3.5,No,High,1141,39.0
+171,2025,Q1,AutoTech,Automation,USA,1675,349,704,18.9,1.7,No,High,1053,33.14
+172,2025,Q1,DigitalHub,Software,UK,708,216,242,28.4,1.9,No,Low,458,47.16
+173,2025,Q1,ByteLabs,Software,Canada,325,327,320,34.7,7.8,Yes,High,647,50.54
+174,2025,Q1,SmartData,Data Analytics,India,1750,128,450,26.6,4.3,Yes,Low,578,22.15
+175,2025,Q1,SecureNet,Cybersecurity,Germany,963,389,848,37.0,2.4,Yes,High,1237,31.45
+176,2025,Q1,FutureAI,Artificial Intelligence,USA,903,417,849,23.8,7.9,Yes,High,1266,32.94
+177,2025,Q1,MarketCloud,E-commerce,Singapore,1064,426,410,29.0,6.1,No,High,836,50.96
+178,2025,Q1,AppForge,Software,India,1072,247,843,31.1,1.7,No,Low,1090,22.66
+179,2025,Q1,QuantumSoft,Software,USA,1323,253,804,41.1,6.2,No,Low,1057,23.94
+180,2025,Q1,VisionTech,Artificial Intelligence,UK,738,201,543,38.5,2.0,No,Low,744,27.02
+181,2025,Q2,TechNova,Software,USA,855,394,452,41.8,3.4,No,High,846,46.57
+182,2025,Q2,CloudWorks,Cloud,India,1468,302,431,18.2,7.5,No,High,733,41.2
+183,2025,Q2,FinTechPro,FinTech,UK,220,410,658,38.0,7.8,No,High,1068,38.39
+184,2025,Q2,DataCore,Software,USA,591,410,510,23.3,2.6,Yes,High,920,44.57
+185,2025,Q2,ShopTech,E-commerce,India,1667,437,847,38.1,5.8,No,High,1284,34.03
+186,2025,Q2,AIWorks,Artificial Intelligence,Canada,1443,120,466,36.9,1.4,No,Low,586,20.48
+187,2025,Q2,PayMatrix,FinTech,Germany,389,146,452,25.8,4.2,Yes,Low,598,24.41
+188,2025,Q2,CyberSphere,Cybersecurity,USA,1730,376,524,30.7,7.9,No,High,900,41.78
+189,2025,Q2,CodeWave,Software,Singapore,646,346,452,35.9,3.7,Yes,High,798,43.36
+190,2025,Q2,NetSystems,Cloud,India,274,172,381,38.6,6.5,No,Low,553,31.1
+191,2025,Q2,AutoTech,Automation,USA,1767,385,524,20.2,4.1,Yes,High,909,42.35
+192,2025,Q2,DigitalHub,Software,UK,373,332,527,34.1,6.1,No,High,859,38.65
+193,2025,Q2,ByteLabs,Software,Canada,1427,290,260,34.2,4.6,No,High,550,52.73
+194,2025,Q2,SmartData,Data Analytics,India,1269,267,774,23.3,1.7,No,High,1041,25.65
+195,2025,Q2,SecureNet,Cybersecurity,Germany,1555,254,814,27.8,2.2,No,High,1068,23.78
+196,2025,Q2,FutureAI,Artificial Intelligence,USA,743,352,268,20.3,7.7,Yes,High,620,56.77
+197,2025,Q2,MarketCloud,E-commerce,Singapore,1049,289,836,40.8,6.3,No,High,1125,25.69
+198,2025,Q2,AppForge,Software,India,1322,179,574,33.7,7.3,No,Low,753,23.77
+199,2025,Q2,QuantumSoft,Software,USA,692,116,529,23.2,4.4,Yes,Low,645,17.98
+200,2025,Q2,VisionTech,Artificial Intelligence,UK,862,150,526,31.1,8.3,Yes,Low,676,22.19
+201,2025,Q3,TechNova,Software,USA,935,241,344,41.2,8.1,No,Low,585,41.2
+202,2025,Q3,CloudWorks,Cloud,India,307,439,367,33.4,5.6,Yes,High,806,54.47
+203,2025,Q3,FinTechPro,FinTech,UK,1731,270,399,41.7,6.9,Yes,High,669,40.36
+204,2025,Q3,DataCore,Software,USA,1687,383,362,32.1,7.1,Yes,High,745,51.41
+205,2025,Q3,ShopTech,E-commerce,India,1705,175,760,18.1,7.5,Yes,Low,935,18.72
+206,2025,Q3,AIWorks,Artificial Intelligence,Canada,386,376,406,37.2,2.0,No,High,782,48.08
+207,2025,Q3,PayMatrix,FinTech,Germany,389,107,516,37.0,2.9,Yes,Low,623,17.17
+208,2025,Q3,CyberSphere,Cybersecurity,USA,476,235,203,21.0,4.3,Yes,Low,438,53.65
+209,2025,Q3,CodeWave,Software,Singapore,250,343,609,36.7,4.9,Yes,High,952,36.03
+210,2025,Q3,NetSystems,Cloud,India,1151,213,779,19.0,6.9,No,Low,992,21.47
+211,2025,Q3,AutoTech,Automation,USA,1187,254,619,33.4,1.4,No,High,873,29.1
+212,2025,Q3,DigitalHub,Software,UK,942,318,260,29.8,7.8,Yes,High,578,55.02
+213,2025,Q3,ByteLabs,Software,Canada,285,264,772,21.6,2.1,No,High,1036,25.48
+214,2025,Q3,SmartData,Data Analytics,India,1318,380,482,27.1,5.6,Yes,High,862,44.08
+215,2025,Q3,SecureNet,Cybersecurity,Germany,1155,409,590,20.4,6.3,No,High,999,40.94
+216,2025,Q3,FutureAI,Artificial Intelligence,USA,1453,382,370,28.3,7.7,No,High,752,50.8
+217,2025,Q3,MarketCloud,E-commerce,Singapore,1048,304,575,35.5,3.5,Yes,High,879,34.58
+218,2025,Q3,AppForge,Software,India,642,291,306,34.5,4.7,Yes,High,597,48.74
+219,2025,Q3,QuantumSoft,Software,USA,294,147,592,20.3,6.6,No,Low,739,19.89
+220,2025,Q3,VisionTech,Artificial Intelligence,UK,1259,130,750,41.0,5.3,No,Low,880,14.77
+221,2025,Q4,TechNova,Software,USA,961,281,831,40.6,4.3,No,High,1112,25.27
+222,2025,Q4,CloudWorks,Cloud,India,225,247,764,25.5,2.0,No,Low,1011,24.43
+223,2025,Q4,FinTechPro,FinTech,UK,436,436,643,23.4,2.0,No,High,1079,40.41
+224,2025,Q4,DataCore,Software,USA,872,158,435,31.8,7.1,No,Low,593,26.64
+225,2025,Q4,ShopTech,E-commerce,India,1691,418,778,34.2,5.3,No,High,1196,34.95
+226,2025,Q4,AIWorks,Artificial Intelligence,Canada,1467,455,423,18.7,3.2,No,High,878,51.82
+227,2025,Q4,PayMatrix,FinTech,Germany,815,279,156,22.4,2.2,No,High,435,64.14
+228,2025,Q4,CyberSphere,Cybersecurity,USA,262,172,798,41.3,1.9,No,Low,970,17.73
+229,2025,Q4,CodeWave,Software,Singapore,890,314,614,26.2,3.9,No,High,928,33.84
+230,2025,Q4,NetSystems,Cloud,India,1710,390,760,20.0,1.6,Yes,High,1150,33.91
+231,2025,Q4,AutoTech,Automation,USA,1385,125,840,20.0,4.4,No,Low,965,12.95
+232,2025,Q4,DigitalHub,Software,UK,1363,326,574,24.6,6.7,Yes,High,900,36.22
+233,2025,Q4,ByteLabs,Software,Canada,1000,156,440,34.3,5.5,No,Low,596,26.17
+234,2025,Q4,SmartData,Data Analytics,India,751,123,375,27.5,5.6,Yes,Low,498,24.7
+235,2025,Q4,SecureNet,Cybersecurity,Germany,737,208,290,36.3,3.3,Yes,Low,498,41.77
+236,2025,Q4,FutureAI,Artificial Intelligence,USA,1138,320,329,21.1,5.1,Yes,High,649,49.31
+237,2025,Q4,MarketCloud,E-commerce,Singapore,1264,442,512,19.7,7.5,Yes,High,954,46.33
+238,2025,Q4,AppForge,Software,India,158,335,229,38.7,5.4,No,High,564,59.4
+239,2025,Q4,QuantumSoft,Software,USA,1573,427,577,24.9,4.2,No,High,1004,42.53
+240,2025,Q4,VisionTech,Artificial Intelligence,UK,471,416,621,38.0,7.9,Yes,High,1037,40.12
+241,2026,Q1,TechNova,Software,USA,336,254,596,37.9,5.0,Yes,High,850,29.88
+242,2026,Q1,CloudWorks,Cloud,India,755,511,497,28.0,6.9,Yes,High,1008,50.69
+243,2026,Q1,FinTechPro,FinTech,UK,1416,188,693,35.8,7.8,Yes,Low,881,21.34
+244,2026,Q1,DataCore,Software,USA,1609,549,810,44.0,2.9,Yes,High,1359,40.4
+245,2026,Q1,ShopTech,E-commerce,India,524,218,766,26.1,6.7,Yes,Low,984,22.15
+246,2026,Q1,AIWorks,Artificial Intelligence,Canada,1702,451,655,34.5,5.3,No,High,1106,40.78
+247,2026,Q1,PayMatrix,FinTech,Germany,1514,419,808,39.2,5.8,No,High,1227,34.15
+248,2026,Q1,CyberSphere,Cybersecurity,USA,1404,291,304,33.9,4.6,No,High,595,48.91
+249,2026,Q1,CodeWave,Software,Singapore,1750,270,755,23.5,4.9,Yes,High,1025,26.34
+250,2026,Q1,NetSystems,Cloud,India,1045,149,208,32.0,3.3,No,Low,357,41.74
+251,2026,Q1,AutoTech,Automation,USA,304,444,758,35.7,4.6,No,High,1202,36.94
+252,2026,Q1,DigitalHub,Software,UK,1741,508,192,34.1,7.1,No,High,700,72.57
+253,2026,Q1,ByteLabs,Software,Canada,778,439,637,35.5,8.2,No,High,1076,40.8
+254,2026,Q1,SmartData,Data Analytics,India,1780,305,236,35.6,2.5,Yes,High,541,56.38
+255,2026,Q1,SecureNet,Cybersecurity,Germany,1016,354,686,36.1,2.4,Yes,High,1040,34.04
+256,2026,Q1,FutureAI,Artificial Intelligence,USA,699,328,568,42.9,6.2,Yes,High,896,36.61
+257,2026,Q1,MarketCloud,E-commerce,Singapore,1412,461,492,23.8,1.9,No,High,953,48.37
+258,2026,Q1,AppForge,Software,India,701,259,822,48.0,5.6,Yes,High,1081,23.96
+259,2026,Q1,QuantumSoft,Software,USA,286,428,829,25.8,3.8,No,High,1257,34.05
+260,2026,Q1,VisionTech,Artificial Intelligence,UK,1550,469,551,25.5,6.4,Yes,High,1020,45.98
+261,2026,Q2,TechNova,Software,USA,1264,322,808,43.4,7.1,No,High,1130,28.5
+262,2026,Q2,CloudWorks,Cloud,India,1633,480,689,24.5,6.1,No,High,1169,41.06
+263,2026,Q2,FinTechPro,FinTech,UK,157,315,466,26.9,2.8,No,High,781,40.33
+264,2026,Q2,DataCore,Software,USA,1115,228,381,49.0,2.3,Yes,Low,609,37.44
+265,2026,Q2,ShopTech,E-commerce,India,1734,181,669,42.8,7.3,No,Low,850,21.29
+266,2026,Q2,AIWorks,Artificial Intelligence,Canada,197,468,494,45.7,5.7,No,High,962,48.65
+267,2026,Q2,PayMatrix,FinTech,Germany,435,213,335,44.4,6.8,No,Low,548,38.87
+268,2026,Q2,CyberSphere,Cybersecurity,USA,459,499,598,23.2,3.9,No,High,1097,45.49
+269,2026,Q2,CodeWave,Software,Singapore,1029,442,441,42.3,6.9,Yes,High,883,50.06
+270,2026,Q2,NetSystems,Cloud,India,609,288,630,46.4,2.6,No,High,918,31.37
+271,2026,Q2,AutoTech,Automation,USA,1288,355,622,42.8,6.9,No,High,977,36.34
+272,2026,Q2,DigitalHub,Software,UK,977,212,354,43.6,2.2,Yes,Low,566,37.46
+273,2026,Q2,ByteLabs,Software,Canada,1433,376,530,37.0,1.9,No,High,906,41.5
+274,2026,Q2,SmartData,Data Analytics,India,375,275,235,42.6,3.2,No,High,510,53.92
+275,2026,Q2,SecureNet,Cybersecurity,Germany,421,353,243,47.6,2.8,No,High,596,59.23
+276,2026,Q2,FutureAI,Artificial Intelligence,USA,835,143,574,23.4,4.9,Yes,Low,717,19.94
+277,2026,Q2,MarketCloud,E-commerce,Singapore,287,321,379,22.8,8.0,No,High,700,45.86
+278,2026,Q2,AppForge,Software,India,1451,301,299,25.7,3.3,No,High,600,50.17
+279,2026,Q2,QuantumSoft,Software,USA,1545,201,630,34.1,1.2,Yes,Low,831,24.19
+280,2026,Q2,VisionTech,Artificial Intelligence,UK,644,240,303,36.8,6.5,No,Low,543,44.2
+281,2026,Q3,TechNova,Software,USA,347,527,445,28.4,2.1,Yes,High,972,54.22
+282,2026,Q3,CloudWorks,Cloud,India,1428,536,787,34.3,2.0,No,High,1323,40.51
+283,2026,Q3,FinTechPro,FinTech,UK,1342,404,166,39.1,5.4,No,High,570,70.88
+284,2026,Q3,DataCore,Software,USA,716,349,151,38.6,3.0,Yes,High,500,69.8
+285,2026,Q3,ShopTech,E-commerce,India,1480,472,237,36.1,3.8,No,High,709,66.57
+286,2026,Q3,AIWorks,Artificial Intelligence,Canada,1234,389,669,37.0,4.1,No,High,1058,36.77
+287,2026,Q3,PayMatrix,FinTech,Germany,1421,328,532,28.8,1.3,No,High,860,38.14
+288,2026,Q3,CyberSphere,Cybersecurity,USA,826,253,822,39.0,6.8,No,Low,1075,23.53
+289,2026,Q3,CodeWave,Software,Singapore,800,198,195,31.5,3.7,No,Low,393,50.38
+290,2026,Q3,NetSystems,Cloud,India,1715,480,625,48.5,4.7,Yes,High,1105,43.44
+291,2026,Q3,AutoTech,Automation,USA,396,162,618,23.0,2.7,No,Low,780,20.77
+292,2026,Q3,DigitalHub,Software,UK,205,291,467,35.9,8.4,No,High,758,38.39
+293,2026,Q3,ByteLabs,Software,Canada,638,148,812,27.2,3.8,No,Low,960,15.42
+294,2026,Q3,SmartData,Data Analytics,India,1462,299,429,25.4,3.9,No,High,728,41.07
+295,2026,Q3,SecureNet,Cybersecurity,Germany,1642,355,545,31.2,2.6,No,High,900,39.44
+296,2026,Q3,FutureAI,Artificial Intelligence,USA,872,538,681,29.2,1.8,Yes,High,1219,44.13
+297,2026,Q3,MarketCloud,E-commerce,Singapore,1001,438,334,36.7,3.5,Yes,High,772,56.74
+298,2026,Q3,AppForge,Software,India,1473,281,463,34.0,6.4,Yes,High,744,37.77
+299,2026,Q3,QuantumSoft,Software,USA,1029,309,607,23.1,7.6,Yes,High,916,33.73
+300,2026,Q3,VisionTech,Artificial Intelligence,UK,1010,270,804,48.5,8.1,Yes,High,1074,25.14
+301,2026,Q4,TechNova,Software,USA,1425,337,522,35.9,6.7,Yes,High,859,39.23
+302,2026,Q4,CloudWorks,Cloud,India,183,203,772,40.3,4.4,Yes,Low,975,20.82
+303,2026,Q4,FinTechPro,FinTech,UK,603,528,810,31.9,4.0,No,High,1338,39.46
+304,2026,Q4,DataCore,Software,USA,1359,208,845,34.1,3.9,No,Low,1053,19.75
+305,2026,Q4,ShopTech,E-commerce,India,277,423,290,36.3,4.1,No,High,713,59.33
+306,2026,Q4,AIWorks,Artificial Intelligence,Canada,631,188,176,41.9,4.8,Yes,Low,364,51.65
+307,2026,Q4,PayMatrix,FinTech,Germany,1270,190,418,42.9,6.3,Yes,Low,608,31.25
+308,2026,Q4,CyberSphere,Cybersecurity,USA,1373,276,652,27.4,2.2,Yes,High,928,29.74
+309,2026,Q4,CodeWave,Software,Singapore,473,495,605,48.9,7.1,No,High,1100,45.0
+310,2026,Q4,NetSystems,Cloud,India,774,471,505,41.2,5.2,Yes,High,976,48.26
+311,2026,Q4,AutoTech,Automation,USA,734,210,803,26.7,3.8,Yes,Low,1013,20.73
+312,2026,Q4,DigitalHub,Software,UK,531,535,292,28.4,4.8,Yes,High,827,64.69
+313,2026,Q4,ByteLabs,Software,Canada,1292,318,628,43.7,5.2,No,High,946,33.62
+314,2026,Q4,SmartData,Data Analytics,India,296,163,466,32.8,6.4,No,Low,629,25.91
+315,2026,Q4,SecureNet,Cybersecurity,Germany,961,523,569,44.2,1.7,No,High,1092,47.89
+316,2026,Q4,FutureAI,Artificial Intelligence,USA,1435,167,610,34.6,5.0,Yes,Low,777,21.49
+317,2026,Q4,MarketCloud,E-commerce,Singapore,1717,412,805,37.9,6.8,Yes,High,1217,33.85
+318,2026,Q4,AppForge,Software,India,1149,158,277,36.0,3.4,Yes,Low,435,36.32
+319,2026,Q4,QuantumSoft,Software,USA,1572,245,504,47.6,5.0,Yes,Low,749,32.71
+320,2026,Q4,VisionTech,Artificial Intelligence,UK,281,258,351,39.1,5.2,Yes,High,609,42.36
