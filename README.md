@@ -295,3 +295,4 @@ Data Analyst | Python | SQL | Power BI | Data Analytics
 * Research-based Analysis
 "# -Tech-Industry-Layoffs-vs-AI-Hiring-Trend-Analysis-2023-2026-" 
 "# -Tech-Industry-Layoffs-vs-AI-Hiring-Trend-Analysis-2023-2026-" 
+"# -Tech-Industry-Layoffs-vs-AI-Hiring-Trend-Analysis-2023-2026-" 
